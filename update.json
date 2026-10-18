@@ -1,0 +1,18 @@
+{
+    "package":  {
+                    "downloadUrl":  "https://github.com/radekc17/youtubeai-tv-updates/releases/download/v0.1.1-dev/YouTubeAI_TV_0.1.1-dev_universal.apk"
+                },
+    "0.1.1-dev":  {
+                      "versionCode":  2,
+                      "changelog":  [
+                                        "Fixed focus and activation for the home-screen sign-in prompt.",
+                                        "Enabled the in-app update feed using the public GitHub channel."
+                                    ]
+                  },
+    "0.1.0-dev":  {
+                      "versionCode":  1,
+                      "changelog":  [
+                                        "Initial development build."
+                                    ]
+                  }
+}
