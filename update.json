@@ -1,7 +1,14 @@
 {
     "package":  {
-                    "downloadUrl":  "https://github.com/radekc17/youtubeai-tv-updates/releases/download/v0.1.1-dev/YouTubeAI_TV_0.1.1-dev_universal.apk"
+                    "downloadUrl":  "https://github.com/radekc17/youtubeai-tv-updates/releases/download/v0.1.2-dev/YouTubeAI_TV_0.1.2-dev_universal.apk"
                 },
+    "0.1.2-dev":  {
+                      "versionCode":  3,
+                      "changelog":  [
+                                        "Added Clean feed mode: hide Shorts and mixes together with one setting; enabled by default on first launch and reversible in General settings.",
+                                        "Keeps the home-screen sign-in fix and adds a version 3 OTA update for installations on versionCode 2."
+                                    ]
+                  },
     "0.1.1-dev":  {
                       "versionCode":  2,
                       "changelog":  [
